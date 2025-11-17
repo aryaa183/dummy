@@ -1,4 +1,4 @@
-Smart Accident Risk Predictor
+# Accident-Risk-Prediction-System
 
 A machine learning–powered system that predicts accident risk levels for a given route based on traffic, environmental, and historical accident datasets. This project integrates ML models (XGBoost, Random Forest, LSTM optional), Apriori association rule mining, and a web interface for real-time user interaction.
 
